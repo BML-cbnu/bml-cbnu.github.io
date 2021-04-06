@@ -1,0 +1,6 @@
+Gemfile.lock
+_site/
+category/
+*~
+_change/
+.jekyll-cache/

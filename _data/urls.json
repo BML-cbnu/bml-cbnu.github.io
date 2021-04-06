@@ -1,0 +1,18 @@
+[
+  {
+    "text": "About",
+    "url": "/about/"
+  },
+  {
+    "text": "News",
+    "url": "/news/"
+  },
+  {
+    "text": "Members",
+    "url": "/members/"
+  },
+  {
+    "text": "Publications",
+    "url": "/publications/"
+  }
+]

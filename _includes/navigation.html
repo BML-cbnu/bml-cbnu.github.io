@@ -1,0 +1,59 @@
+<ul> 
+{% for i in site.data.urls %}
+	<!-- {% if i.url contains '://' %}
+	{% assign linkurl = i.url %}
+	{% else %}
+	{% assign linkurl = i.url | prepend: site.baseurl %}
+	{% endif %} -->
+	<div class="links"><a href="{{site.baseurl}}{{ i.url }}">{{ i.text }}</a></div>
+{% endfor %}
+</ul>
+
+<style>
+	/* Check in web */
+	@font-face {
+		font-family: 'Spoqa Han Sans';
+		font-weight: 700;
+		src: 
+		url('{{site.baseurl}}/assets/fonts/SpoqaHanSansRegular.woff2') format('woff2'), 
+		url('{{site.baseurl}}/assets/fonts/SpoqaHanSansRegular.woff') format('woff'),
+		url('{{site.baseurl}}/assets/fonts/SpoqaHanSansRegular.ttf') format('truetype');
+	}
+
+	.header-panel.shadow-z-2{
+		background-image: linear-gradient(to bottom, #3a4347e1,  #242a2ce1), url("{{ site.baseurl }}/static/img/nav-bg3.jpg");
+		background-size: cover;
+	}
+	
+	body{
+		font-size : 10px;
+		background-image: linear-gradient(to top,#cfcfcf3f, #cfcfcf3f), url("{{ site.baseurl }}/static/img/bg6.png");
+		background-size: cover;
+	}
+	
+	.logo-img{
+		transition: 0.5s;
+		image-rendering: -webkit-optimize-contrast;
+	}
+	.logo-img:hover{
+		filter: brightness(65%) contrast(80%) sepia(100%) hue-rotate(180deg);
+		transition: 0.5s;
+	}
+	.links > a{
+		font-family: 'Spoqa Han Sans', cursive;
+		font-size:30px;
+		color:white;
+		text-decoration: underline;
+		text-decoration-color: transparent;
+		transition: 0.5s;
+		transition-property: left right;
+		-webkit-text-decoration-color: transparent;
+	}
+	.links > a:hover{
+		
+		filter: brightness(65%) contrast(80%) sepia(100%) hue-rotate(180deg);
+		text-decoration-color: rgb(83, 95, 107);
+		transition: 0.5s;
+		transition-property: left right;
+	}
+</style>

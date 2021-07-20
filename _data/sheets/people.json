@@ -21,27 +21,6 @@
             },
             {
                 "type": "Members",
-                "picture": "/static/img/sh1.jpg",
-                "name": "Seonghun Kim",
-                "email": "tjdgns4560@naver.com",
-                "description": "Image processing"
-            },
-            {
-                "type": "Members",
-                "picture": "/static/img/jh.jpg",
-                "name": "Jeonghwan Yoon",
-                "email": "ghks0630@naver.com",
-                "description": "Machine Learning"
-            },
-            {
-                "type": "Members",
-                "picture": "/static/img/sh.jpg",
-                "name": "Seockhun Bae",
-                "email": "dinky24@chungbuk.ac.kr",
-                "description": "Bioinformatics"
-            },
-            {
-                "type": "Members",
                 "picture": "/static/img/jw.jpg",
                 "name": "You Jiwon",
                 "email": "jiwon71@g.cbnu.ac.kr",
@@ -53,6 +32,40 @@
                 "name": "Park Jeongho",
                 "email": "yu065812@naver.com",
                 "description": "Machine Learning"
+            },
+            {
+                "type": "Members",
+                "picture": "/static/img/sj.jpg",
+                "name": "Ha Soojeong",
+                "email": "yu065812@naver.com",
+                "description": "Machine Learning"
+            }
+            
+        ]
+    },
+    {
+        "class": "Alumni",
+        "people": [
+            {
+                "type": "Members",
+                "picture": "/static/img/sh1.jpg",
+                "name": "Seonghun Kim",
+                "email": "tjdgns4560@naver.com",
+                "description": ""
+            },
+            {
+                "type": "Members",
+                "picture": "/static/img/jh.jpg",
+                "name": "Jeonghwan Yoon",
+                "email": "ghks0630@naver.com",
+                "description": ""
+            },
+            {
+                "type": "Members",
+                "picture": "/static/img/sh.jpg",
+                "name": "Seockhun Bae",
+                "email": "dinky24@chungbuk.ac.kr",
+                "description": ""
             }
         ]
     }

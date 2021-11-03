@@ -38,14 +38,14 @@
         "picture": "/static/img/sj.jpg",
         "name": "Ha Soojeong",
         "email": "js0120sj@daum.net",
-        "description": "Machine Learning"
+        "description": "Bioinformatics"
       },
       {
         "type": "Members",
         "picture": "/static/img/jg.jpg",
         "name": "Kim Junku",
         "email": "jk901@chungbuk.ac.kr",
-        "description": "Machine Learning"
+        "description": "Bioinformatics"
       },
       {
         "type": "Alumni",

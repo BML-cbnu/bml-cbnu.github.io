@@ -5,11 +5,11 @@ logo: /static/img/logo.png
 github: https://github.com/s-hun
 about: Bioinformatics Machine Learning
 
-baseurl: "" #"https://s-hun.github.io/hcz-jekyll-blog"
-url: "" #"https://s-hun.github.io/hcz-jekyll-blog"
+baseurl: ""
+url: "https://bml.cbnu.ac.kr"
 
 # allowsearch: true
-allowsearch : false
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
@@ -17,7 +17,6 @@ google_analytics: UA-72862926-1
 share:
   twitter_username: \#
   fb_appid: 000000000000
-
 
 enableTags: true
 tagarray: []

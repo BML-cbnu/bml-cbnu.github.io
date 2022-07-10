@@ -13,39 +13,39 @@
     "class": "Members",
     "people": [
       {
-        "type": "Members",
-        "picture": "/static/img/hs.jpg",
-        "name": "Jang Hyuksoon",
-        "email": "smashh712@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Members",
+        "type": "M.S.",
         "picture": "/static/img/jw.jpg",
         "name": "You Jiwon",
         "email": "jiwon71@g.cbnu.ac.kr",
         "description": "Bioinformatics"
       },
       {
-        "type": "Members",
+        "type": "M.S.",
         "picture": "/static/img/jh1.jpg",
         "name": "Park Jeongho",
         "email": "yu065812@naver.com",
         "description": "Machine Learning"
       },
       {
-        "type": "Members",
+        "type": "M.S.",
         "picture": "/static/img/sj.jpg",
         "name": "Ha Soojeong",
         "email": "js0120sj@daum.net",
         "description": "Bioinformatics"
       },
       {
-        "type": "Members",
+        "type": "M.S.",
         "picture": "/static/img/jg.jpg",
         "name": "Kim Junku",
         "email": "jk901@chungbuk.ac.kr",
         "description": "Bioinformatics"
+      },
+      {
+        "type": "M.S.",
+        "picture": "/static/img/hs.jpg",
+        "name": "Jang Hyuksoon",
+        "email": "smashh712@gmail.com",
+        "description": "Machine Learning"
       },
       {
         "type": "Alumni",

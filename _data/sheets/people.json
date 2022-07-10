@@ -41,13 +41,6 @@
         "description": "Bioinformatics"
       },
       {
-        "type": "M.S.",
-        "picture": "/static/img/hs.jpg",
-        "name": "Jang Hyuksoon",
-        "email": "smashh712@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
         "type": "Alumni",
         "picture": "/static/img/sh1.jpg",
         "name": "Seonghun Kim",
@@ -67,7 +60,14 @@
         "name": "Seockhun Bae",
         "email": "dinky24@chungbuk.ac.kr",
         "description": ""
-      }
+      },
+            {
+        "type": "Alumni",
+        "picture": "/static/img/hs.jpg",
+        "name": "Jang Hyuksoon",
+        "email": "smashh712@gmail.com",
+        "description": "Machine Learning"
+      },
     ]
   }
 ]

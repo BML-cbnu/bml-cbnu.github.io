@@ -21,7 +21,7 @@
       },
       {
         "type": "M.S.",
-        "picture": "/static/img/jh1.jpg",
+        "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",
         "email": "yu065812@naver.com",
         "description": "Machine Learning"
@@ -35,28 +35,28 @@
       },
       {
         "type": "M.S.",
-        "picture": "/static/img/jg.jpg",
+        "picture": "/static/img/jk.jpg",
         "name": "Kim Junku",
         "email": "jk901@chungbuk.ac.kr",
         "description": "Bioinformatics"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/sh1.jpg",
+        "picture": "/static/img/sh2.jpg",
         "name": "Seonghun Kim",
         "email": "tjdgns4560@naver.com",
         "description": ""
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jh.jpg",
+        "picture": "/static/img/jh1.jpg",
         "name": "Jeonghwan Yoon",
         "email": "ghks0630@naver.com",
         "description": ""
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/sh.jpg",
+        "picture": "/static/img/sh1.jpg",
         "name": "Seockhun Bae",
         "email": "dinky24@chungbuk.ac.kr",
         "description": ""

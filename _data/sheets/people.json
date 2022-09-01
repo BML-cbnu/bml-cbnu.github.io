@@ -41,23 +41,37 @@
         "description": "Bioinformatics"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/jh3.jpg",
+        "name": "Park Juho",
+        "email": "juhobag12@gmail.com",
+        "description": "Bioinformatics"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/ms.jpg",
+        "name": "Oh Minseok",
+        "email": "minseok.dev@gmail.com",
+        "description": "Machine Learning"
+      },
+      {
         "type": "Alumni",
         "picture": "/static/img/sh2.jpg",
-        "name": "Seonghun Kim",
+        "name": "Kim Seonghun",
         "email": "tjdgns4560@naver.com",
         "description": ""
       },
       {
         "type": "Alumni",
         "picture": "/static/img/jh1.jpg",
-        "name": "Jeonghwan Yoon",
+        "name": "Yoon Jeonghwan",
         "email": "ghks0630@naver.com",
         "description": ""
       },
       {
         "type": "Alumni",
         "picture": "/static/img/sh1.jpg",
-        "name": "Seockhun Bae",
+        "name": "Bae Seockhun",
         "email": "dinky24@chungbuk.ac.kr",
         "description": ""
       },

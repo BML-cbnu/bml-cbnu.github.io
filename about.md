@@ -26,11 +26,6 @@ permalink: /about/
 
 </div>
 
-**참고 기사**
-
-\- 서울대 BHI 연구실(조겨리 교수 박사취득 연구실) 김선 교수님의 중앙일보 칼럼 [링크](https://news.joins.com/article/23778952)
-
-
 ### Keywords
 
 * Machine learning

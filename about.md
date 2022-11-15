@@ -26,6 +26,18 @@ permalink: /about/
 
 </div>
 
+### Projects
+
+* Electroencephalography Analysis for Virtual Reality-Based Music Therapy
+
+* Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm
+
+* Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk
+
+* Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
+
+* Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
+
 ### Keywords
 
 * Machine learning

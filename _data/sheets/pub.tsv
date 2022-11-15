@@ -1,4 +1,5 @@
 class	date	contents	state
+International Journal	2022-11-11	"Shin, J.; Piao, Y.; Bang, D.; Kim, S.; Jo, K. DRPreter: Interpretable Anticancer Drug Response Prediction Using Knowledge-Guided Graph Neural Networks and Transformer. Int. J. Mol. Sci. 2022, 23, 13919. "	complete
 International Journal	2022-06-07	"Han JS, Jeon YG, Oh M, Lee G, Nahmgoong H, Han SM, Choi J, Kim YY, Shin KC, Kim J, Jo K, Choe SS, Park EJ, Kim S, Kim JB. Adipocyte HIF2α functions as a thermostat via PKA Cα regulation in beige adipocytes.  Nature Communications, 2022 Jun 7; 13(1):1-16. "	complete
 International Journal	2021-06-15	"Jo K, Lee D, Sung IY, Jang H, Kim S. Inferring transcriptomic cell states and transitions from time series transcriptome data. Scientific Reports, 2021 Jun 15; 11:12566."	complete
 International Journal	2021-05-09	"Kang H*, Ahn H*, Jo K, Oh M, Kim S. mirTime: Identifying Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering. Bioinformatics, 2021 June 1; 37(11):1544–1553."	complete
@@ -19,7 +20,7 @@ International Conference	2016-07-08	"Jo K, Jung I, Moon JH, Kim S. Influence max
 International Conference	2015-11-15	"Kim HJ, Moon JH, Shin JS, Kim JS, Min BH, Kim JM, Kim YH, Lee WW, Kang BC, Kang SJ, Kim SJ, Jo K, Kim S, Park CG. A new bioinformatics analysis reveals intestinal infection as a possible cause of intrahepatic graft rejection in non-human primate porcine islet xenotransplantation. IPITA-IXA-CTS 2015, Nov 15-19, Melbourne, Australia"	complete
 Domestic Journal	2022-03-28	"Dashdondov K, Jo K, Kim MH. Linear interpolation and Machine Learning Methods for Gas Leakage Prediction Base on Multi-source Data Integration. Journal of the Korea Convergence Society, 2022 Mar 28, 13(3):33-41."	complete
 Domestic Journal	2014-10-01	"조겨리, 김선. 네트워크를 이용한 시계열 유전체 분석 기법의 연구 동향. 정보과학회지, Vol.32, No. 10, 2014. Oct., pp22-27."	complete
-Domestic Conference	2022-06-15	"김준구, 조겨리. 멀티모달 퓨전을 활용한 폐색전증 예측 모델의 성능 개선.  한국정보과학회 학술발표논문집, 2022 Jun, "	complete
+Domestic Conference	2022-06-15	"김준구, 조겨리. 멀티모달 퓨전을 활용한 폐색전증 예측 모델의 성능 개선.  한국정보과학회 학술발표논문집, 2022 Jun, 1002-1004."	complete
 Domestic Conference	2021-12-15	"박정호, 하수정, 조겨리. 멀티 오믹스 데이터를 이용한 드라이버 유전자 분류. 한국정보과학회 학술발표논문집, 2021 Dec, 1533-1535."	complete
 Domestic Conference	2021-06-15	"유지원, 윤정환, 조겨리. 돌연변이 시그니처와 유전자 발현량의 시계열 연관 분석 프레임워크.  한국정보과학회 학술발표논문집, 2021 Jun, pp2019-2021."	complete
 Domestic Conference	2021-06-15	"박정호, 장혁순, 조겨리. 설명가능한 인공지능을 활용한 합성곱 신경망 모델의 원 이미지 분류 강건도 분석. 한국정보과학회 학술발표논문집, 2021 Jun, pp2002-2004."	complete

@@ -5,8 +5,8 @@ logo: /static/img/logo.png
 github: https://github.com/s-hun
 about: Bioinformatics Machine Learning
 
-baseurl: "https://bml.cbnu.ac.kr"
-url: "https://bml.cbnu.ac.kr"
+baseurl: "https://bml-cbnu.github.io"
+url: "https://bml-cbnu.github.io"
 
 # allowsearch: true
 allowsearch: false

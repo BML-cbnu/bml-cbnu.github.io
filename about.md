@@ -13,26 +13,23 @@ permalink: /about/
     <br>
     생물정보학 및 머신러닝 연구실(BML Lab.)에 오신 것을 환영합니다.
     <br>
-    BML 연구실은 머신러닝, 인공지능 프로젝트를 통해 실생활에 활용될 수 있는 다양한 문제를 해결하고자 합니다.
+    BML 연구실은 바이오(BT)와 정보기술(IT)를 융합하여 의생명분야의 빅데이터를 분석하는 생물정보학(bioinformatics) 연구를 수행합니다.
     <br>
-    또한, 바이오(BT)와 정보기술(IT)를 융합하여 다양한 생물 빅데이터(Bio Big Data)를 분석하는 
+    현재 아래와 같은 연구과제를 통해 COVID-19 외 다수의 질병 및 유전체/약물/뇌파 등 다양한 데이터에 대한 분석 및 연구를 진행하고 있습니다.
     <br>
-    생물정보학(bioinformatics) 연구를 통해 DNA/돌연변이, 줄기세포 
-    연구, 유전자 네트워크 분석 등 다양한 연구를 진행 중입니다.
+    인공지능/머신러닝 모델을 기반으로 한 응용 연구에 관심있는 학생들은 연락 바랍니다. (대학원생 및 박사후연구원 모집 중)
     <br>
-    <br>
-    <br>
-    <br>
-
 </div>
 
 ### Projects
 
-* Electroencephalography Analysis for Virtual Reality-Based Music Therapy
-* Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm
-* Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk
-* Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
-* Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
+* 퓨샷 러닝을 활용한 비암성 질환의 다중오믹스 바이오마커 검출 기법 개발 / Inferring multi-omics biomarkers for non-cancer diseases using few-shot learning
+* 코로나19 멀티오믹스 통합분석 및 예후 예측 모델 개발 / Integrated analysis of time-series multi-omics data for COVID-19 patients and development of risk prediction model
+* 음악치료 VR 악기개발을 위한 암기연주와 즉흥연주에서의 뇌파분석 연구 / Electroencephalography Analysis for Virtual Reality-Based Music Therapy
+* 비음수 최소제곱법을 활용한 변이 패턴-유전자 발현 시계열 연관 분석 / Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm (finished)
+* 충북 공공기관연계 지능정보가속화 개방형 생태계 조성사업 / Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk (finished)
+* 멀티오믹스 분석 알고리즘 및 플랫폼 개발 / Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
+* 시계열 전사체 정보와 클러스터링을 활용한 세포 상태 및 전이 규명 알고리즘 개발 / Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
 
 ### Keywords
 
@@ -41,5 +38,7 @@ permalink: /about/
 * Bioinformatics
 * Biological network
 * Gene expression
+* Next-generation sequencing
 * Mutational signature
 * Pathway analysis
+* Time-series analysis

@@ -23,13 +23,13 @@ permalink: /about/
 
 ### Projects
 
-* 퓨샷 러닝을 활용한 비암성 질환의 다중오믹스 바이오마커 검출 기법 개발 / Inferring multi-omics biomarkers for non-cancer diseases using few-shot learning
-* 코로나19 멀티오믹스 통합분석 및 예후 예측 모델 개발 / Integrated analysis of time-series multi-omics data for COVID-19 patients and development of risk prediction model
-* 음악치료 VR 악기개발을 위한 암기연주와 즉흥연주에서의 뇌파분석 연구 / Electroencephalography Analysis for Virtual Reality-Based Music Therapy
-* 비음수 최소제곱법을 활용한 변이 패턴-유전자 발현 시계열 연관 분석 / Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm (finished)
-* 충북 공공기관연계 지능정보가속화 개방형 생태계 조성사업 / Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk (finished)
-* 멀티오믹스 분석 알고리즘 및 플랫폼 개발 / Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
-* 시계열 전사체 정보와 클러스터링을 활용한 세포 상태 및 전이 규명 알고리즘 개발 / Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
+* 퓨샷 러닝을 활용한 비암성 질환의 다중오믹스 바이오마커 검출 기법 개발 <br> Inferring multi-omics biomarkers for non-cancer diseases using few-shot learning
+* 코로나19 멀티오믹스 통합분석 및 예후 예측 모델 개발 <br> Integrated analysis of time-series multi-omics data for COVID-19 patients and development of risk prediction model
+* 음악치료 VR 악기개발을 위한 암기연주와 즉흥연주에서의 뇌파분석 연구 <br> Electroencephalography Analysis for Virtual Reality-Based Music Therapy
+* 비음수 최소제곱법을 활용한 변이 패턴-유전자 발현 시계열 연관 분석 <br> Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm (finished)
+* 충북 공공기관연계 지능정보가속화 개방형 생태계 조성사업 <br> Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk (finished)
+* 멀티오믹스 분석 알고리즘 및 플랫폼 개발 <br> Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
+* 시계열 전사체 정보와 클러스터링을 활용한 세포 상태 및 전이 규명 알고리즘 개발 <br> Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
 
 ### Keywords
 

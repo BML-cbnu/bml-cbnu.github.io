@@ -17,7 +17,7 @@ permalink: /about/
     <br>
     현재 아래와 같은 연구과제를 통해 COVID-19 외 다수의 질병 및 유전체/약물/뇌파 등 다양한 데이터에 대한 분석 및 연구를 진행하고 있습니다.
     <br>
-    인공지능/머신러닝 모델을 기반으로 한 응용 연구에 관심있는 학생들은 <a href="mailto:kyurijo@chungbuk.ac.kr">연락 바랍니다</a>. (대학원생 및 박사후연구원 모집 중)
+    인공지능/머신러닝 모델을 기반으로 한 응용 연구에 관심있는 학생들은 <a href="mailto:kyurijo@chungbuk.ac.kr">연락 바랍니다</a>. (대학원생 및 박사후연구원 모집 중, kyurijo@chungbuk.ac.kr)
     <br>
 </div>
 
@@ -30,6 +30,15 @@ permalink: /about/
 * 충북 공공기관연계 지능정보가속화 개방형 생태계 조성사업 <br> Open Ecosystem Construction Project for Acceleration of Intelligence Information Linked to Public Institutions in Chungbuk (finished)
 * 멀티오믹스 분석 알고리즘 및 플랫폼 개발 <br> Development of Algorithms and Platforms for the Analysis of Multi-omics Data (finished)
 * 시계열 전사체 정보와 클러스터링을 활용한 세포 상태 및 전이 규명 알고리즘 개발 <br> Development of an Algorithm for Determining Cell States and Transitions from Time Series Transcriptome Data Using Clustering (finished)
+
+### Collaboration
+
+* 경북대학교 Computational Bio Intelligence (COBI) Lab
+* 서울대학교 Bio & Health Informatics (BHI) Lab
+* 서울대학교병원 Bio-Medical Informatics (BMI) Lab
+* 숙명여자대학교 Computational Bio Intelligence (CBI) Lab
+* 이화여자대학교 통계학과
+* 한국교통대학교 음악학과
 
 ### Keywords
 

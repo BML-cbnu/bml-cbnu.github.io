@@ -17,13 +17,16 @@ permalink: /about/
     <br>
     현재 아래와 같은 연구과제를 통해 COVID-19 외 다수의 질병 및 유전체/약물/뇌파 등 다양한 데이터에 대한 분석 및 연구를 진행하고 있습니다.
     <br>
-    인공지능/머신러닝 모델을 기반으로 한 응용 연구에 관심있는 학생들은 <a href="mailto:kyurijo@chungbuk.ac.kr">연락 바랍니다</a>. (대학원생 및 박사후연구원 모집 중, kyurijo@chungbuk.ac.kr)
+    인공지능/머신러닝 모델을 기반으로 한 응용 연구에 관심있는 학생들은 <a href="mailto:kyurijo@chungbuk.ac.kr">연락 바랍니다</a>. 
+    <br>
+    (학부생 인턴, 대학원생 및 박사후연구원 모집 중, kyurijo@chungbuk.ac.kr)
     <br>
 </div>
 
 ### Projects
 
-* 퓨샷 러닝을 활용한 비암성 질환의 다중오믹스 바이오마커 검출 기법 개발 <br> Inferring multi-omics biomarkers for non-cancer diseases using few-shot learning
+* 퓨샷 러닝을 활용한 비암성 질환의 다중오믹스 바이오마커 검출 기법 개발 <br> Inferring Multi-omics Biomarkers for Non-cancer Diseases Using Few-shot Learning
+* 개인별 맞춤 분석을 위한 다학제 통계방법 개발 <br> Development of Multi-disciplinary Statistical Methods for Personalization
 * 코로나19 멀티오믹스 통합분석 및 예후 예측 모델 개발 <br> Integrated analysis of time-series multi-omics data for COVID-19 patients and development of risk prediction model
 * 음악치료 VR 악기개발을 위한 암기연주와 즉흥연주에서의 뇌파분석 연구 <br> Electroencephalography Analysis for Virtual Reality-Based Music Therapy
 * 비음수 최소제곱법을 활용한 변이 패턴-유전자 발현 시계열 연관 분석 <br> Time Course Association Study between Mutational Signature and Gene Expression Using Non-negative Least Squares Algorithm (finished)

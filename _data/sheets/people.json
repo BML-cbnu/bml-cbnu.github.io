@@ -50,25 +50,19 @@
       },
       {
         "type": "Intern",
-        "picture": "/static/img/",
-        "name": "",
-        "email": "",
-        "description": ""
+        "picture": "/static/img/icon.jpg",
+        "name": "Mun Huibeom",
+        "email": "ejungto99@naver.com",
+        "description": "Machine Learning"
       },
       {
         "type": "Intern",
-        "picture": "/static/img/",
-        "name": "",
-        "email": "",
-        "description": ""
+        "picture": "/static/img/icon.jpg",
+        "name": "Han Taehyeon",
+        "email": "gksxogus8@naver.com",
+        "description": "machine learning"
       },
-      {
-        "type": "Intern",
-        "picture": "/static/img/",
-        "name": "",
-        "email": "",
-        "description": ""
-      },
+      
       {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",

@@ -20,15 +20,6 @@
         "email": "jiwon71@chungbuk.ac.kr",
         "description": "Bioinformatics"
       },
-
-      {
-        "type": "M.S.",
-        "picture": "/static/img/jh2.jpg",
-        "name": "Park Jeongho",
-        "email": "yu065812@naver.com",
-        "description": ""
-      },
-
       {
         "type": "M.S.",
         "picture": "/static/img/sj.jpg",
@@ -50,7 +41,13 @@
         "email": "juhobag12@gmail.com",
         "description": "Bioinformatics"
       },
-      
+      {
+        "type": "Alumni",
+        "picture": "/static/img/jh2.jpg",
+        "name": "Park Jeongho",
+        "email": "Master Course",
+        "description": ""
+      },
       {
         "type": "Alumni",
         "picture": "/static/img/sh2.jpg",

@@ -42,6 +42,34 @@
         "description": "Bioinformatics"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/jj.jpg",
+        "name": "Ju Jeongjin",
+        "email": "wnwjdwls321@gmail.com",
+        "description": "Machine Learning"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/",
+        "name": "",
+        "email": "",
+        "description": ""
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/",
+        "name": "",
+        "email": "",
+        "description": ""
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/",
+        "name": "",
+        "email": "",
+        "description": ""
+      },
+      {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",

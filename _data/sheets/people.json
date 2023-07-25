@@ -60,9 +60,15 @@
         "picture": "/static/img/th.jpg",
         "name": "Han Taehyeon",
         "email": "gksxogus8@naver.com",
-        "description": "machine learning"
+        "description": "Machine Learning"
       },
-      
+      {
+        "type": "Intern",
+        "picture": "/static/img/hj.png",
+        "name": "Jang Hojoong",
+        "email": "hojoong310@gmail.com",
+        "description": "Machine Learning"
+      },
       {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",

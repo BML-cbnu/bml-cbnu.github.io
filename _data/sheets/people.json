@@ -57,19 +57,19 @@
       },
       {
         "type": "Alumni",
+        "picture": "/static/img/sh1.jpg",
+        "name": "Bae Seockhun",
+        "email": "Research Intern",
+        "description": "Samsung electronics"
+      },
+      {
+        "type": "Alumni",
         "picture": "/static/img/jh1.jpg",
         "name": "Yoon Jeonghwan",
         "email": "Research Intern",
         "description": ""
       },
       {
-        "type": "Alumni",
-        "picture": "/static/img/sh1.jpg",
-        "name": "Bae Seockhun",
-        "email": "Research Intern",
-        "description": "Samsung electronics"
-      },
-            {
         "type": "Alumni",
         "picture": "/static/img/hs.jpg",
         "name": "Jang Hyuksoon",

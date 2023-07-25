@@ -45,42 +45,42 @@
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",
-        "email": "M.S.",
-        "description": ""
+        "email": "yu065812@naver.com",
+        "description": "LIG Nex1"
       },
       {
         "type": "Alumni",
         "picture": "/static/img/sh2.jpg",
         "name": "Kim Seonghun",
-        "email": "Research Intern",
+        "email": "tjdgns4560@naver.com",
         "description": "AHHA Labs"
       },
       {
         "type": "Alumni",
         "picture": "/static/img/jh1.jpg",
         "name": "Yoon Jeonghwan",
-        "email": "Research Intern",
+        "email": "ghks0630@naver.com",
         "description": ""
       },
       {
         "type": "Alumni",
         "picture": "/static/img/sh1.jpg",
         "name": "Bae Seockhun",
-        "email": "Research Intern",
+        "email": "dinky24@chungbuk.ac.kr",
         "description": "Samsung electronics"
       },
             {
         "type": "Alumni",
         "picture": "/static/img/hs.jpg",
         "name": "Jang Hyuksoon",
-        "email": "Research Intern",
-        "description": ""
+        "email": "smashh712@gmail.com",
+        "description": "POSTECH"
       },
       {
         "type": "Alumni",
         "picture": "/static/img/ms.jpg",
         "name": "Oh Minseok",
-        "email": "Research Intern",
+        "email": "minseok.dev@gmail.com",
         "description": ""
       },
     ]

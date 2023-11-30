@@ -1,6 +1,6 @@
 title: BML
 description: BML Blog
-author: Seockhun Bae, Hyucksoon Jang
+author: Seockhun Bae, Hyucksoon Jang, Jiwon You
 logo: /static/img/logo.png
 github: https://github.com/s-hun
 about: Bioinformatics Machine Learning
@@ -25,4 +25,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]

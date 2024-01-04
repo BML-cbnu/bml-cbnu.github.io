@@ -21,13 +21,6 @@
         "description": "Bioinformatics"
       },
       {
-        "type": "Resercher",
-        "picture": "/static/img/jk.jpg",
-        "name": "Kim Junku",
-        "email": "jk901@chungbuk.ac.kr",
-        "description": "Bioinformatics"
-      },
-      {
         "type": "M.S.",
         "picture": "/static/img/jj.jpg",
         "name": "Ju Jeongjin",
@@ -61,6 +54,13 @@
         "name": "Jang Hojoong",
         "email": "hojoong310@gmail.com",
         "description": "Machine Learning"
+      },
+      {
+        "type": "Resercher",
+        "picture": "/static/img/jk.jpg",
+        "name": "Kim Junku",
+        "email": "jk901@chungbuk.ac.kr",
+        "description": "Bioinformatics"
       },
       {
         "type": "Alumni",

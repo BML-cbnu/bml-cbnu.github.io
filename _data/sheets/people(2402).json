@@ -28,6 +28,13 @@
         "description": "Machine Learning"
       },
       {
+        "type": "M.S.",
+        "picture": "/static/img/jh4.jpg",
+        "name": "Ko Jonghyun",
+        "email": "rhwhdgus1223@naver.com",
+        "description": "Machine Learning"
+      },
+      {
         "type": "Intern",
         "picture": "/static/img/jh3.jpg",
         "name": "Park Juho",
@@ -53,13 +60,6 @@
         "picture": "/static/img/hj.png",
         "name": "Jang Hojoong",
         "email": "hojoong310@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Intern",
-        "picture": "/static/img/jh4.jpg",
-        "name": "Ko Jonghyun",
-        "email": "rhwhdgus1223@naver.com",
         "description": "Machine Learning"
       },
       {

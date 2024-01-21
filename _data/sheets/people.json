@@ -70,6 +70,20 @@
         "description": "Machine Learning"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/jh4.jpg",
+        "name": "Ko Jonghyun",
+        "email": "rhwhdgus1223@naver.com",
+        "description": "Machine Learning"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/th3.jpg",
+        "name": "Seo Taehyeok",
+        "email": "tjxogur03@naver.com",
+        "description": "Machine Learning"
+      },
+      {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",

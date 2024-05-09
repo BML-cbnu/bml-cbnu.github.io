@@ -3,7 +3,7 @@
     "class": "Professor",
     "picture": "https://kyurijo.github.io/images/KyuriJo_round.png",
     "name": "Kyuri Jo",
-    "description": "Assistant professor at ",
+    "description": "Associate professor at ",
     "department": "Dept. of Computer Engineering, College of Electrical and Computer Engineering, Chungbuk National University",
     "address": "Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, Korea (28644) Building E8-1, Room 407",
     "call": "+82-43-261-3685",
@@ -33,6 +33,13 @@
         "name": "Ko Jonghyun",
         "email": "rhwhdgus1223@naver.com",
         "description": "Machine Learning"
+      },
+      {
+        "type": "Researcher",
+        "picture": "/static/img/jk.jpg",
+        "name": "Kim Junku",
+        "email": "M.S.",
+        "description": "."
       },
       {
         "type": "Intern",
@@ -85,44 +92,37 @@
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jk.jpg",
-        "name": "Kim Junku",
-        "email": "M.S.",
-        "description": "."
-      },
-      {
-        "type": "Alumni",
         "picture": "/static/img/sh2.jpg",
         "name": "Kim Seonghun",
-        "email": "research intern",
+        "email": "Intern",
         "description": "Hanyang Univ."
       },
       {
         "type": "Alumni",
         "picture": "/static/img/jh1.jpg",
         "name": "Yoon Jeonghwan",
-        "email": "research intern",
+        "email": "Intern",
         "description": "."
       },
       {
         "type": "Alumni",
         "picture": "/static/img/sh1.jpg",
         "name": "Bae Seockhun",
-        "email": "research intern",
+        "email": "Intern",
         "description": "Samsung electronics"
       },
             {
         "type": "Alumni",
         "picture": "/static/img/hs.jpg",
         "name": "Jang Hyuksoon",
-        "email": "research intern",
+        "email": "Intern",
         "description": "POSTECH"
       },
       {
         "type": "Alumni",
         "picture": "/static/img/ms.jpg",
         "name": "Oh Minseok",
-        "email": "research intern",
+        "email": "Intern",
         "description": "."
       },
     ]

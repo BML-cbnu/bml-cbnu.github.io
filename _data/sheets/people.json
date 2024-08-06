@@ -77,6 +77,13 @@
         "description": "Machine Learning"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/gh.jpg",
+        "name": "Yi Ganghui",
+        "email": "kangheelee98@gmail.com",
+        "description": "Machine Learning"
+      },
+      {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",

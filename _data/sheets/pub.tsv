@@ -1,5 +1,8 @@
 class	date	contents	state
+International Journal	2025-01-01	"Kim J, Jang H, Park Y, Jung I, Jo K. ExPDrug: Integration of an interpretable neural network and a knowledge graph for pathway-based drug repurposing. Computers in Biology and Medicine. (accepted)."	complete
+International Journal	2025-01-01	"Ha S, Park J, Jo K. Comparative analysis of regression algorithms for drug responseprediction using GDSC dataset. BMC Research Notes. (accepted)."	complete
 International Journal	2024-05-22	"Mswahili ME, Jo K, Lee SD, Jeong Y-S. Graph Neural Networks with Multi-Features for Predicting Cocrystals Using APIs and coformers Interactions. Current Medicinal Chemistry. 2024 May 22; 31(36):5953-5968."	complete
+International Journal	2024-03-08	"Mswahili ME, Ndomba GE, Kim YJ, Jo K, Jeong Y-S. Relational Graph Convolution Network with Multi Features for Anti-COVID-19 Drugs Discovery using 3CLpro Potential Target. Current Bioinformatics. 2024 Mar 8; 20(1):18-30."	complete
 International Journal	2024-02-11	"Mswahili ME, Ndomba GE, Jo K, Jeong Y-S. Graph Neural Network and BERT Model for Antimalarial Drug Predictions Using Plasmodium Potential Targets. Applied Sciences. 2024 Feb 11; 14(4):1472."	complete
 International Journal	2024-01-31	"Yong GJ, Hahn N, Oh JY, Lee DB, Kim DW, Kim JE, Kim YY, Ji Y, Han JS, Kim SM, Sohn JH, Lee WT, Kim SW, Park J, Huh JY, Jo K, Cho JY, Park JY, Kim JB. Ubiquitin ligase RNF20 coordinates sequential adipose thermogenesis with brown and beige fat-specific substrates. Nature Communications. 2024 Jan 19; 15(1):1-17."	complete
 International Journal	2023-12-07	"Dashdondov K, Kim M, Jo K. NDAMA: A Novel Deep Autoencoder and Multivariate Analysis Approach for IoT-Based Methane Gas Leakage Detection. IEEE Access, 2023 Dec 7; 11:140740-140751."	complete
@@ -39,6 +42,7 @@ Domestic Conference	2021-06-15	"유지원, 윤정환, 조겨리. 돌연변이 �
 Domestic Conference	2021-06-15	"박정호, 장혁순, 조겨리. 설명가능한 인공지능을 활용한 합성곱 신경망 모델의 원 이미지 분류 강건도 분석. 한국정보과학회 학술발표논문집, 2021 Jun, pp2002-2004."	complete
 Domestic Conference	2020-12-15	"김성훈, 배석훈, 박은화, 조겨리. 그래프 컨볼루션 네트워크와 유전자 발현 데이터를 활용한 약물 반응 예측 모델. 한국정보과학회 학술발표논문집, 2020 Dec, 1466-1468."	complete
 Domestic Conference	2015-10-23	"Korean Society for Bioinformatics and Systems Biology BIOINFO 2015, Oct 23."	complete
+Awards	2024-10-25	"Excellent Poster Award (하수정), BIOINFO 2024, 2024 Oct 25."	complete
 Awards	2024-02-02	"학부생/주니어논문경진대회 장려상 (문희범, 한태현, 박정호, 조겨리), KSC2023, 2024 Feb 02."	complete
 Awards	2024-02-01	"우수학부생논문상 (장호중, 주정진, 김준구, 조겨리), KCSE2024, 2024 Feb 01."	complete
 Awards	2023-07-25	"학부생/주니어논문경진대회 장려상 (박주호, 오민석, 유지원, 조겨리), KCC2023, 2023 Jul 25."	complete

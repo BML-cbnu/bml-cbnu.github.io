@@ -84,6 +84,27 @@
         "description": "Machine Learning"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/minseo.jpg",
+        "name": "Kim Minseo",
+        "email": "min56607@gmail.com",
+        "description": "Machine Learning"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/ohyunji.jpg",
+        "name": "Oh Hyunji",
+        "email": "pigcalfoh@gmail.com",
+        "description": "Machine Learning"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/handaehee.jpg",
+        "name": "Han Daehee",
+        "email": "handh011018@gmail.com",
+        "description": "Bioinformatics"
+      },
+      {
         "type": "Alumni",
         "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",

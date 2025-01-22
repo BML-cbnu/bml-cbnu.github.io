@@ -42,18 +42,18 @@
         "description": "."
       },
       {
-        "type": "Intern",
+        "type": "Alumni",
         "picture": "/static/img/jh3.jpg",
         "name": "Park Juho",
         "email": "juhobag12@gmail.com",
-        "description": "Bioinformatics"
+        "description": "GIST"
       },
       {
-        "type": "Intern",
+        "type": "Alumni",
         "picture": "/static/img/hb.jpg",
         "name": "Mun Huibeom",
         "email": "ejungto99@naver.com",
-        "description": "Machine Learning"
+        "description": ""
       },
       {
         "type": "Intern",
@@ -63,18 +63,18 @@
         "description": "Machine Learning"
       },
       {
-        "type": "Intern",
+        "type": "Alumni",
         "picture": "/static/img/hj.png",
         "name": "Jang Hojoong",
         "email": "hojoong310@gmail.com",
-        "description": "Machine Learning"
+        "description": ""
       },
       {
-        "type": "Intern",
+        "type": "Alumni",
         "picture": "/static/img/th3.png",
         "name": "Seo Taehyeok",
         "email": "tjxogur03@naver.com",
-        "description": "Machine Learning"
+        "description": ""
       },
       {
         "type": "Intern",

@@ -64,91 +64,78 @@
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jk.jpg",
         "name": "Kim Junku",
         "email": "M.S.",
         "description": "."
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/th.jpg",
         "name": "Han Taehyeon",
         "email": "Intern",
         "description": "."
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jh3.jpg",
         "name": "Park Juho",
         "email": "Intern",
         "description": "GIST"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/hj.png",
         "name": "Jang Hojoong",
         "email": "Intern",
         "description": "."
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/th3.png",
         "name": "Seo Taehyeok",
         "email": "Intern",
         "description": "CBNU"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/hb.jpg",
         "name": "Mun Huibeom",
         "email": "Intern",
         "description": "MOREH"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jh2.jpg",
         "name": "Park Jeongho",
         "email": "M.S.",
         "description": "LIG Nex1"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jw.jpg",
         "name": "You Jiwon",
         "email": "M.S.",
         "description": "Asan Medical Center"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/sh2.jpg",
         "name": "Kim Seonghun",
         "email": "Intern",
         "description": "Hanyang Univ."
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/jh1.jpg",
         "name": "Yoon Jeonghwan",
         "email": "Intern",
         "description": "."
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/sh1.jpg",
         "name": "Bae Seockhun",
         "email": "Intern",
         "description": "Samsung electronics"
       },
             {
         "type": "Alumni",
-        "picture": "/static/img/hs.jpg",
         "name": "Jang Hyuksoon",
         "email": "Intern",
         "description": "POSTECH"
       },
       {
         "type": "Alumni",
-        "picture": "/static/img/ms.jpg",
         "name": "Oh Minseok",
         "email": "Intern",
         "description": "."

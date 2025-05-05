@@ -35,48 +35,6 @@
         "description": "Large Language Models"
       },
       {
-        "type": "Researcher",
-        "picture": "/static/img/jk.jpg",
-        "name": "Kim Junku",
-        "email": "M.S.",
-        "description": "."
-      },
-      {
-        "type": "Intern",
-        "picture": "/static/img/th.jpg",
-        "name": "Han Taehyeon",
-        "email": "gksxogus8@naver.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Alumni",
-        "picture": "/static/img/jh3.jpg",
-        "name": "Park Juho",
-        "email": "Intern",
-        "description": "GIST"
-      },
-      {
-        "type": "Alumni",
-        "picture": "/static/img/hb.jpg",
-        "name": "Mun Huibeom",
-        "email": "Intern",
-        "description": "MOREH"
-      },
-      {
-        "type": "Alumni",
-        "picture": "/static/img/hj.png",
-        "name": "Jang Hojoong",
-        "email": "Intern",
-        "description": "."
-      },
-      {
-        "type": "Alumni",
-        "picture": "/static/img/th3.png",
-        "name": "Seo Taehyeok",
-        "email": "Intern",
-        "description": "CBNU"
-      },
-      {
         "type": "Intern",
         "picture": "/static/img/gh.jpg",
         "name": "Yi Ganghui",
@@ -103,6 +61,48 @@
         "name": "Han Daehee",
         "email": "handh011018@gmail.com",
         "description": "Bioinformatics"
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/jk.jpg",
+        "name": "Kim Junku",
+        "email": "M.S.",
+        "description": "."
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/th.jpg",
+        "name": "Han Taehyeon",
+        "email": "Intern",
+        "description": "."
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/jh3.jpg",
+        "name": "Park Juho",
+        "email": "Intern",
+        "description": "GIST"
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/hj.png",
+        "name": "Jang Hojoong",
+        "email": "Intern",
+        "description": "."
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/th3.png",
+        "name": "Seo Taehyeok",
+        "email": "Intern",
+        "description": "CBNU"
+      },
+      {
+        "type": "Alumni",
+        "picture": "/static/img/hb.jpg",
+        "name": "Mun Huibeom",
+        "email": "Intern",
+        "description": "MOREH"
       },
       {
         "type": "Alumni",

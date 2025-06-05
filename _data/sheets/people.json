@@ -63,6 +63,13 @@
         "description": "Bioinformatics"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/minseok.jpg",
+        "name": "Park minseok",
+        "email": "zzzoad929@gmail.com",
+        "description": "Large Language Models"
+      },
+      {
         "type": "Alumni",
         "name": "Kim Junku",
         "email": "M.S.",

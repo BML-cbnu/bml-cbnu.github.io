@@ -35,6 +35,13 @@
         "description": "Large Language Models"
       },
       {
+        "type": "M.S.",
+        "picture": "/static/img/pdy.jpg",
+        "name": "Park Deokyeol",
+        "email": "qlgod777777@gmail.com",
+        "description": "Bioinformatics"
+      },
+      {
         "type": "Intern",
         "picture": "/static/img/gh.jpg",
         "name": "Yi Ganghui",

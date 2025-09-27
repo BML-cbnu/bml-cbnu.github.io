@@ -42,6 +42,12 @@
         "description": "Bioinformatics"
       },
       {
+        "type": "M.S.(Part-time)",
+        "name": "Lim Changu",
+        "email": "dla7463@daum.net",
+        "description": "Multi-modal Deep Learning"
+      },
+      {
         "type": "Intern",
         "picture": "/static/img/gh.jpg",
         "name": "Yi Ganghui",
@@ -81,6 +87,12 @@
         "name": "Kim Junku",
         "email": "M.S.",
         "description": "."
+      },
+      {
+        "type": "Alumni",
+        "name": "Jaesung Shim",
+        "email": "Ph.D.(Part-time)",
+        "description": "NIPA"
       },
       {
         "type": "Alumni",

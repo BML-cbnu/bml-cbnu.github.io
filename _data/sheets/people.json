@@ -22,13 +22,6 @@
       },
       {
         "type": "M.S.",
-        "picture": "/static/img/jj.jpg",
-        "name": "Ju Jeongjin",
-        "email": "wnwjdwls321@gmail.com",
-        "description": "Few-shot Learning"
-      },
-      {
-        "type": "M.S.",
         "picture": "/static/img/jh4.jpg",
         "name": "Ko Jonghyun",
         "email": "rhwhdgus1223@naver.com",
@@ -49,23 +42,9 @@
       },
       {
         "type": "Intern",
-        "picture": "/static/img/gh.jpg",
-        "name": "Yi Ganghui",
-        "email": "kangheelee98@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Intern",
         "picture": "/static/img/minseo.jpg",
         "name": "Kim Minseo",
         "email": "min56607@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Intern",
-        "picture": "/static/img/ohyunji.jpg",
-        "name": "Oh Hyunji",
-        "email": "pigcalfoh@gmail.com",
         "description": "Machine Learning"
       },
       {
@@ -81,6 +60,24 @@
         "name": "Park minseok",
         "email": "zzzoad929@gmail.com",
         "description": "Large Language Models"
+      },
+      {
+        "type": "Alumni",
+        "name": "Ju Jeongjin",
+        "email": "M.S.",
+        "description": "DGIST"
+      },
+      {
+        "type": "Alumni",
+        "name": "Oh Hyunji",
+        "email": "Intern",
+        "description": "."
+      },
+      {
+        "type": "Alumni",
+        "name": "Yi Ganghui",
+        "email": "Intern",
+        "description": "University of Southern California"
       },
       {
         "type": "Alumni",

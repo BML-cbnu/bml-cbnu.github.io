@@ -22,13 +22,6 @@
       },
       {
         "type": "M.S.",
-        "picture": "/static/img/jh4.jpg",
-        "name": "Ko Jonghyun",
-        "email": "rhwhdgus1223@naver.com",
-        "description": "Large Language Models"
-      },
-      {
-        "type": "M.S.",
         "picture": "/static/img/pdy.jpg",
         "name": "Park Deokyeol",
         "email": "qlgod777777@gmail.com",
@@ -42,24 +35,28 @@
       },
       {
         "type": "Intern",
-        "picture": "/static/img/minseo.jpg",
-        "name": "Kim Minseo",
-        "email": "min56607@gmail.com",
-        "description": "Machine Learning"
-      },
-      {
-        "type": "Intern",
-        "picture": "/static/img/handaehee.jpg",
-        "name": "Han Daehee",
-        "email": "handh011018@gmail.com",
-        "description": "Bioinformatics"
-      },
-      {
-        "type": "Intern",
         "picture": "/static/img/minseok.jpg",
         "name": "Park minseok",
         "email": "zzzoad929@gmail.com",
         "description": "Large Language Models"
+      },
+      {
+        "type": "Alumni",
+        "name": "Ko Jonghyun",
+        "email": "M.S.",
+        "description": "KISTI"
+      },
+      {
+        "type": "Alumni",
+        "name": "Kim Minseo",
+        "email": "Intern",
+        "description": "."
+      },
+      {
+        "type": "Alumni",
+        "name": "Han Daehee",
+        "email": "Intern",
+        "description": "."
       },
       {
         "type": "Alumni",
@@ -107,7 +104,7 @@
         "type": "Alumni",
         "name": "Jang Hojoong",
         "email": "Intern",
-        "description": "."
+        "description": "LOTTE HIMART"
       },
       {
         "type": "Alumni",
@@ -125,7 +122,7 @@
         "type": "Alumni",
         "name": "Park Jeongho",
         "email": "M.S.",
-        "description": "LIG Nex1"
+        "description": "Hanwha Systems"
       },
       {
         "type": "Alumni",
@@ -149,7 +146,7 @@
         "type": "Alumni",
         "name": "Bae Seockhun",
         "email": "Intern",
-        "description": "Samsung electronics"
+        "description": "Samsung Electronics"
       },
             {
         "type": "Alumni",
@@ -161,7 +158,7 @@
         "type": "Alumni",
         "name": "Oh Minseok",
         "email": "Intern",
-        "description": "."
+        "description": "NAVER"
       },
     ]
   }

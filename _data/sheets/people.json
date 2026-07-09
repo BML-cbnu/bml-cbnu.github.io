@@ -16,29 +16,44 @@
       {
         "type": "Ph.D.",
         "picture": "/static/img/sj.jpg",
-        "name": "Ha Soojung",
+        "name": "Soojung Ha",
         "email": "js0120sj@daum.net",
-        "description": "Multi-omics & Multimodal Deep Learning"
+        "description": "Multi-omics & Multi-modal Deep Learning"
       },
       {
         "type": "M.S.",
         "picture": "/static/img/pdy.jpg",
-        "name": "Park Deokyeol",
+        "name": "Deokyeol Park",
         "email": "qlgod777777@gmail.com",
         "description": "Bioinformatics"
       },
       {
         "type": "M.S.(Part-time)",
-        "name": "Lim Changu",
+        "picture": "/static/img/lcg.jpg"
+        "name": "Changu Lim",
         "email": "dla7463@daum.net",
         "description": "Multi-modal Deep Learning"
       },
       {
         "type": "Intern",
         "picture": "/static/img/minseok.jpg",
-        "name": "Park minseok",
+        "name": "Minseok Park",
         "email": "zzzoad929@gmail.com",
         "description": "Large Language Models"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/shin.jpg",
+        "name": "Shin Lee",
+        "email": "lee05014@umn.edu",
+        "description": "Multi-modal Deep Learning & Bioinformatics"
+      },
+      {
+        "type": "Intern",
+        "picture": "/static/img/eungyo.jpg"
+        "name": "Eungyo Lee"
+        "email": dldmsry0119@gmail.com",
+        "description": "Machine Learning"
       },
       {
         "type": "Alumni",
@@ -50,13 +65,13 @@
         "type": "Alumni",
         "name": "Kim Minseo",
         "email": "Intern",
-        "description": "."
+        "description": " "
       },
       {
         "type": "Alumni",
         "name": "Han Daehee",
         "email": "Intern",
-        "description": "."
+        "description": " "
       },
       {
         "type": "Alumni",

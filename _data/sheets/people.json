@@ -29,7 +29,7 @@
       },
       {
         "type": "M.S.(Part-time)",
-        "picture": "/static/img/lcg.jpg"
+        "picture": "/static/img/lcg.jpg",
         "name": "Changu Lim",
         "email": "dla7463@daum.net",
         "description": "Multi-modal Deep Learning"
@@ -50,8 +50,8 @@
       },
       {
         "type": "Intern",
-        "picture": "/static/img/eungyo.jpg"
-        "name": "Eungyo Lee"
+        "picture": "/static/img/eungyo.jpg",
+        "name": "Eungyo Lee",
         "email": "dldmsry0119@gmail.com",
         "description": "Machine Learning"
       },
@@ -174,7 +174,7 @@
         "name": "Oh Minseok",
         "email": "Intern",
         "description": "NAVER"
-      },
+      }
     ]
   }
 ]

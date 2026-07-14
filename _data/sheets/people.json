@@ -56,6 +56,13 @@
         "description": "Machine Learning"
       },
       {
+        "type": "Intern",
+        "picture": "/static/img/kdh.jpg",
+        "name": "Donghyun Kwak",
+        "email": "donghyeongwag170@gmail.com",
+        "description": "Bioinformatics"
+      },
+      {
         "type": "Alumni",
         "name": "Ko Jonghyun",
         "email": "M.S.",
